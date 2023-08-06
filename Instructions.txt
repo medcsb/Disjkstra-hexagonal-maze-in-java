@@ -1,0 +1,20 @@
+
+*To use this App you first have to create or import an already saved maze.
+
+*When you create a maze you can set the height and width of the maze.
+
+*Once the maze created you can click on any mazeBox to select it or right click it to change its type.
+
+*You can also change the type of a mazeBox by clicking the buttons at the bottom "Empty" and "Wall", now you don't have to right click on each box to change it!
+
+*If you still want to click on a box without changing it, you can click on "Exit Paint Mode", now everything is back to normal.
+*If you want to reset your maze click on "reset" now everything is Empty. :(
+
+*But remeber the only way to set an end or a start to your maze is by right clicking on the box and selecting "start" or "end", you only need one start and one end so no need to paint them like "wall" and "empty" right?
+
+*Once you're happy with your maze you can click the "Solve this Maze" button.
+
+*You can also save and load any maze you want
+
+
+*Now have fun!!!
