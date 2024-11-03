@@ -1,0 +1,11 @@
+# Ignore Eclipse project files
+.settings/
+.classpath
+.project
+
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore compiled files
+bin/
